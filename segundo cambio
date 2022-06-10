@@ -1,0 +1,4 @@
+# sam
+int btn perfil;
+int btn etiqueta;
+int btn comentario;
